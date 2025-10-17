@@ -1,0 +1,29 @@
+body {
+      font-family: Arial, sans-serif;
+      background-color: pink;
+    
+    }
+    input, button {
+      padding: 10px;
+      margin: 5px;
+    }
+    #result {
+      margin-top: 20px;
+      font-size: 18px;
+    }
+
+     fieldset{
+        background: url();
+        height: 300px;
+        border-radius: 15px;
+        border: 2px solid grey;
+        
+    margin-left: 500px;
+    margin-right: 400px;
+    background: url(image.png);
+    
+         
+    }
+    h2{
+        color:red;
+    }
